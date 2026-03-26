@@ -1,0 +1,59 @@
+{
+  "name": "equity-research-reports-ai",
+  "version": "1.0.0",
+  "description": "Automated equity research for Indonesian stocks (IDX) - Generate professional DCF valuations, peer comparisons, dividend analysis, and investment recommendations in seconds.",
+  "author": "reza",
+  "license": "MIT",
+  "homepage": "https://github.com/yourusername/equity-research-reports-ai",
+  "tags": [
+    "finance",
+    "stock-analysis",
+    "equity-research",
+    "indonesia",
+    "idx",
+    "valuation",
+    "dcf",
+    "investing",
+    "ai"
+  ],
+  "icon": "📊",
+  "category": "financial-analysis",
+  "skills": [
+    {
+      "name": "equity-research-reports-ai",
+      "type": "mcp",
+      "description": "Generate comprehensive equity research reports for any IDX stock",
+      "version": "1.0.0"
+    }
+  ],
+  "requirements": {
+    "python": ">=3.8",
+    "dependencies": [
+      "pandas>=1.3.0",
+      "numpy>=1.21.0",
+      "yfinance>=0.1.70",
+      "requests>=2.26.0"
+    ]
+  },
+  "pricing": {
+    "type": "freemium",
+    "free_tier": {
+      "limit": "1 report per day",
+      "features": ["DCF valuation", "Peer comparison", "Basic dividend analysis"]
+    },
+    "premium_tier": {
+      "price": 4.99,
+      "unit": "install",
+      "features": ["Unlimited reports", "Advanced analysis", "Custom parameters", "API access"]
+    }
+  },
+  "statistics": {
+    "downloads": 0,
+    "rating": 0,
+    "reviews": 0
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/equity-research-reports-ai.git"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "banking": [
+    "BBCA",
+    "BMRI",
+    "BBBR",
+    "BBNI",
+    "BBKP"
+  ],
+  "automotive": [
+    "ASII",
+    "UNTR",
+    "IMAS"
+  ],
+  "telecom": [
+    "TLKM",
+    "ISAT"
+  ],
+  "energy": [
+    "PGAS",
+    "EXCL"
+  ],
+  "food-beverage": [
+    "INDF",
+    "UNVR"
+  ],
+  "retail": [
+    "HMSP",
+    "MITRA"
+  ],
+  "healthcare": [
+    "BBCA",
+    "BMRI"
+  ],
+  "infrastructure": [
+    "ADHI",
+    "WIKA"
+  ]
+}
