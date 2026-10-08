@@ -347,14 +347,6 @@ Contributions welcome! Please:
 
 ---
 
-## Support
-
-- 📧 Email: reza@example.com
-- 🐦 Twitter: [@reza_equity](https://twitter.com/reza_equity)
-- 💬 GitHub Issues: [Report a bug](https://github.com/yourusername/equity-research-reports-ai/issues)
-
----
-
 ## License
 
 MIT License - see [LICENSE](LICENSE) file for details
